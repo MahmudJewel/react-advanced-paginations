@@ -6,7 +6,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   return (
-    <div className="App all-bg pt-4">
+    <div className="App all-bg p-5">
       <Container className="card col-md-6 shadow card-style">
         <div>
           <Header />
